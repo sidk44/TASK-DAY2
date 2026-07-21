@@ -7,3 +7,4 @@ The repository was cloned for local review of the README.
 The README was updated to improve clarity and traceability.
 Changes were staged and pushed back to the repository to maintain a clear commit history.
 This sequence illustrates a typical collaborative cycle: issue tracking, proposed changes via pull requests, code review and merge, and documentation updates, all supported by transparent version control practices.
+We also created a merge conflict by creating another branch and then solve the merge conflict and then we merge that pull request.
